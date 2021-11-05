@@ -1,7 +1,8 @@
 //write a function that adds 'ing' to an array of verbs and returns them as a new array
 //bonus: make it work with verbs that end in a vowel, example: dance -> dancing 
 function addIng(arr){
-//your code here
+  return []
+
 }
 
 console.log(addIng(["eat", "sleep", "read"]);
